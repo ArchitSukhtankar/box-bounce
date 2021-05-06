@@ -1,1 +1,1 @@
-# box-bounce
+# Box Class
